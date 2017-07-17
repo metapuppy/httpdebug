@@ -1,3 +1,7 @@
 iframe {
+	max-width: 90%;
+	max-height: 8%;
 	word-wrap: break-word;
+	overflow-x: hidden;
+	overflow-y: hidden;
 }
