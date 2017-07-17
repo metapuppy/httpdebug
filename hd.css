@@ -1,4 +1,6 @@
 iframe {
+	width: 1600px;
+	height: 30px;
 	max-width: 90%;
 	max-height: 8%;
 	word-wrap: break-word;
